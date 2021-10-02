@@ -1,0 +1,15 @@
+.page-header{
+    background-color: black;
+    color: white; 
+    font-weight: 700;
+    font-size: larger;
+}
+
+.first-pic {
+    width: 100%;
+    height: auto;
+}
+
+.first-pic: hover {
+filter: grayscale(100%);
+}
